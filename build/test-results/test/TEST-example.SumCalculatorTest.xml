@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="example.SumCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-04-02T11:19:59" hostname="WIN-RRTMJF3ECE9" time="0.076">
+  <properties/>
+  <testcase name="Test Method from 0" classname="example.SumCalculatorTest" time="0.017"/>
+  <testcase name="[1] 1, 1" classname="example.SumCalculatorTest" time="0.017"/>
+  <testcase name="[2] 3, 6" classname="example.SumCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
